@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitry.
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Pyhton.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking for frends.
 - 📫 Telegram @skdmev ...
 
